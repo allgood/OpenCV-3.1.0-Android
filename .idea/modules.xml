@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenCV/OpenCV.iml" filepath="$PROJECT_DIR$/OpenCV/OpenCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCV-3.1.0-Android.iml" filepath="$PROJECT_DIR$/OpenCV-3.1.0-Android.iml" />
+    </modules>
+  </component>
+</project>
