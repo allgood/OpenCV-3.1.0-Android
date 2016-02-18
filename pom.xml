@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.opencv</groupId>
+  <artifactId>android</artifactId>
+  <version>3.1.0</version>
+  <inceptionYear>2016</inceptionYear>
+  <licenses>
+    <license>
+      <name>BSD</name>
+      <url>http://opencv.org/license.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+</project>

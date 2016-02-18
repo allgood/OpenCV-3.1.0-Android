@@ -13,3 +13,24 @@ allprojects {
         jcenter()
     }
 }
+
+apply plugin: 'maven'
+
+task createPom << {
+    pom {
+        project {
+            groupId 'org.opencv'
+            artifactId 'android'
+            version '3.1.0'
+
+            inceptionYear '2016'
+            licenses {
+                license {
+                    name 'BSD'
+                    url 'http://opencv.org/license.html'
+                    distribution 'repo'
+                }
+            }
+        }
+    }.writeTo("pom.xml")
+}
